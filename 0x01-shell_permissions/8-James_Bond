@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld chmod ug-rwx o+rwx hello
+ls -ld chmod 007 hello
