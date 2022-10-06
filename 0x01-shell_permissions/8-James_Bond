@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld chmod ug= o+rwx hello
+ls -ld chmod o+rwx hello
