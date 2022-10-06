@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld chmod 7 hello
+ls -ld chmod 000 000 007 hello
