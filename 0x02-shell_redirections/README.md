@@ -1,1 +1,1 @@
-New readme
+My shell init readme
