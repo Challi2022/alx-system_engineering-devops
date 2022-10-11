@@ -1,1 +1,1 @@
-My shell init readme
+My shell redirections readme
