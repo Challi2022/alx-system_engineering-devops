@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="ls -lR$PATH"
+echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1))
